@@ -8,7 +8,7 @@ public Rectangulo(int base, int altura){
   this.base=base;
   this.altura=altura; 
 }
-
+//un comentario
 public int getBase(){
   return base;
 }
